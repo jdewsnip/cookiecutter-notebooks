@@ -1,6 +1,6 @@
 # Cookie-Cutter Notebooks
 
-Template for data science projects.
+Template for data science projects using cookie cutter.
 
 ## Project creation
 
@@ -33,4 +33,4 @@ Template for data science projects.
 
 ## References
 
-Based on code from (https://drivendata.github.io/cookiecutter-data-science/#contributing).
+Based on code from https://drivendata.github.io/cookiecutter-data-science and https://github.com/cookiecutter/cookiecutter.
