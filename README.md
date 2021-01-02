@@ -28,7 +28,7 @@ Template for data science projects using cookie cutter.
 │   │
 │   └── Python         <- Python code
 │
-└── README.md          <- tox file with settings for running tox; see tox.testrun.org
+└── README.md          <- Project description
 ```
 
 ## References
