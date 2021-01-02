@@ -1,13 +1,11 @@
-# Cookie-Cutter Notebooks
+# Cookiecutter Notebooks
 
-Template for data science projects using cookie cutter.
+Template for data science projects using Cookiecutter.
 
 ## Project creation
 
 ```bash
     cookiecutter https://github.com/jdewsnip/cookiecutter-notebooks <project-name>
-    cd <project-name>
-    conda install --file conda.yaml
 ```
 
 ## Project structure
