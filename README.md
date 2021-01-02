@@ -1,6 +1,6 @@
-# Cookie-Cutter Notebooks
+# Cookiecutter Notebooks
 
-Template for data science projects using cookie cutter.
+Template for data science projects using Cookiecutter.
 
 ## Project creation
 
