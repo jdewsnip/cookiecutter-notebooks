@@ -27,6 +27,6 @@ TODO
 │   │
 │   └── Python         <- Python code
 │
-└── README.md          <- tox file with settings for running tox; see tox.testrun.org
+└── README.md          <- Project description
 ```
 
